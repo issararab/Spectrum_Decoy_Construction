@@ -10,7 +10,7 @@ This notebook showcase how a decoy can be generated using the Shuffle_and_Reposi
 
 
 ### True peptide spectrum
-[![Image Description](/img/Spectrum_peaks.jpg)](/img/Spectrum_peaks.png)
+[![Image Description](/img/Spectrum_peaks.png)](/img/Spectrum_peaks.png)
 
 ### Decoy peptide spectrum
-[![Image Description](/img/Decoy_spectrum_peaks.jpg)](/img/Decoy_spectrum_peaks.png)
+[![Image Description](/img/Decoy_spectrum_peaks.png)](/img/Decoy_spectrum_peaks.png)
